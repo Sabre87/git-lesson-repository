@@ -1,0 +1,17 @@
+Unix
+Linux
+Windows
+MacOS
+GitHub
+Git-it
+GFA
+Master
+Readme
+Fetch
+Add
+Push
+Diff
+Status
+Remote
+Fork
+
